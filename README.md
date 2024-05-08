@@ -1,6 +1,6 @@
 =>  Template Name    : SiteFox - Developer WebSite Template
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : Alan Danilo Constanti
 
   =>  Author Website   : Alan Danilo Constanti
 
